@@ -18,6 +18,10 @@ Focus here is on tools that provide **actionable insights** – not just dashboa
   [GitHub](https://github.com/grafana/grafana) [Docs](https://grafana.com/docs/)  
   `language:Go,TypeScript` `deploy:k8s,docker` `focus:infra,ml` `maturity:enterprise`
 
+- **LangFuse** – Open source LLM observability and engineering platform for tracing, evaluations, prompt management, metrics and experiment tracking across LLM apps and agents.  
+  [GitHub](https://github.com/langfuse/langfuse) [Docs](https://langfuse.com/docs)
+  `language:Python,TypeScript` `deploy:sdk,hosted` `focus:llm,observability,evals` `maturity:enterprise`
+
 - **OpenTelemetry** – Vendor-neutral standard and SDKs for distributed traces, metrics and logs. Essential for observability in microservices and AI pipelines.  
   [GitHub](https://github.com/open-telemetry/opentelemetry-collector) [Docs](https://opentelemetry.io/docs/)  
   `language:Polyglot` `deploy:k8s,library` `focus:infra` `maturity:established`
@@ -29,10 +33,6 @@ Focus here is on tools that provide **actionable insights** – not just dashboa
 - **TruLens** – Evaluation and observability framework for LLM apps with feedback functions, instrumentation and experiment tracking.  
   [GitHub](https://github.com/truera/trulens) [Docs](https://www.trulens.org/)  
   `language:Python` `deploy:library` `focus:llm,agents` `maturity:early`
-
-- **LangFuse** – Open source LLM observability and engineering platform for tracing, evaluations, prompt management, metrics and experiment tracking across LLM apps and agents.  
-  [GitHub](https://github.com/langfuse/langfuse) [Docs](https://langfuse.com/docs)
-  `language:Python,TypeScript` `deploy:sdk,hosted` `focus:llm,observability,evals` `maturity:enterprise`
 
 ---
 

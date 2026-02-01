@@ -8,6 +8,11 @@ Focus on **reproducibility** at scale – Git-like semantics for data, lineage a
 
 ---
 
+- **Delta Lake** – Storage layer adding ACID transactions, time travel and schema enforcement to data lakes (Parquet format).  
+  **AI Ops benefit**: Reliable feature store backing with time‑travel for model debugging ("what data fed v1.2?"). Spark/MLflow native.  
+  [GitHub](https://github.com/delta-io/delta) [Docs](https://delta.io/)  
+  `language:Scala,Python` `deploy:spark` `focus:data` `maturity:enterprise`
+
 - **DVC (Data Version Control)** – Git-like versioning for datasets and models. Tracks large files via pointers and remote storage (S3/GCP).  
   **AI Ops benefit**: `dvc repro` + MLflow integration = reproducible ML experiments across teams. No more "works on my machine".  
   [GitHub](https://github.com/iterative/dvc) [Docs](https://dvc.org/doc)  
@@ -27,11 +32,6 @@ Focus on **reproducibility** at scale – Git-like semantics for data, lineage a
   **AI Ops benefit**: Unified lineage across Kedro/Airflow/MLflow. Single source of truth for model debugging and audits.  
   [GitHub](https://github.com/OpenLineage/OpenLineage) [Docs](https://openlineage.io/docs/)  
   `language:Polyglot` `deploy:library` `focus:data,lineage` `maturity:established`
-
-- **Delta Lake** – Storage layer adding ACID transactions, time travel and schema enforcement to data lakes (Parquet format).  
-  **AI Ops benefit**: Reliable feature store backing with time‑travel for model debugging ("what data fed v1.2?"). Spark/MLflow native.  
-  [GitHub](https://github.com/delta-io/delta) [Docs](https://delta.io/)  
-  `language:Scala,Python` `deploy:spark` `focus:data` `maturity:enterprise`
 
 ---
 

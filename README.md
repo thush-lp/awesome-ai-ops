@@ -71,11 +71,11 @@ Contributions welcome! This repo aims to be a living directory of the AI Ops eco
 5. **Keep** description neutral (no marketing copy)  
 
 ### PR Checklist:
-✅ Meets selection criteria
-✅ Has GitHub + Docs links
-✅ Includes language + deploy + focus tags
-✅ Alphabetical order
-✅ Neutral description
+- ✅ Meets selection criteria
+- ✅ Has GitHub + Docs links
+- ✅ Includes language + deploy + focus tags
+- ✅ Alphabetical order
+- ✅ Neutral description
 
 ---
 
@@ -84,7 +84,7 @@ Contributions welcome! This repo aims to be a living directory of the AI Ops eco
 - Tag tools by maturity level and deployment model  
 - Highlight governance-relevant features (audit logs, RBAC, policy engines)  
 - Add example stacks for common patterns  
-- Submit to [sindresorhus/awesome](https://github.com/sindresorhus/awesome)  
+- Submit to [thush-lp/awesome-ai-ops](https://github.com/thush-lp/awesome-ai-ops)  
 - Prune unmaintained projects annually  
 
 ---
