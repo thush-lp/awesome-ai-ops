@@ -5,11 +5,11 @@ Help make this the definitive directory of production-grade AI Ops tools!
 ## Selection Criteria
 
 Tools must meet **most** of these:
-✅ Open source (permissive licence: MIT, Apache2, BSD)
-✅ Active (commits/releases last 12-18mo)
-✅ Adopted (500+ GitHub stars OR known production use)
-✅ Documented (quickstart works)
-✅ Focused (solves one problem well)
+- ✅ Open source (permissive licence: MIT, Apache2, BSD)
+- ✅ Active (commits/releases last 12-18mo)
+- ✅ Adopted (500+ GitHub stars OR known production use)
+- ✅ Documented (quickstart works)
+- ✅ Focused (solves one problem well)
 
 
 ## PR Requirements
